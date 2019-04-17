@@ -1,0 +1,5 @@
+server:
+  port: 8761
+spring:
+  application:
+    name: cloud-eureka #hope-plus-cloud 服务注册中心
