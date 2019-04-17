@@ -1,5 +1,9 @@
-server:
-  port: 8761
 spring:
   application:
     name: cloud-eureka #hope-plus-cloud 服务注册中心
+  security:
+    user:
+      name: cloud-eureka
+      password: ${REGISTRY_SERVER_PASSWORD:cloud-eureka}
+  profiles:
+    active: dev
