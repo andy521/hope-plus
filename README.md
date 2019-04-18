@@ -24,7 +24,7 @@ Spring Cloud Config、Spring Cloud Netflix（Eureka、Hystrix、Zuul、Archaius�
 
 ![](https://i.loli.net/2019/04/18/5cb83904c5ba2.png)
 
-# author 
+# Author 
 
 * 作者博客：[低调小熊猫](https://aodeng.cc) -我们不改变世界，我们跟着世界改变。
 
