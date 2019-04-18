@@ -1,6 +1,6 @@
 # <a href="#">HOPE-PLUS-CLOUD</a>
 
-## code-eureka使用说明：
+## clode-eureka使用说明：
 
 单节点注册中心，使用dev环境。账号：cloud-eureka 密码：cloud-eureka
 
