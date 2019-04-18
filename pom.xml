@@ -14,6 +14,7 @@
         <module>hope-sso-server</module>
         <module>hope-generator</module>
         <module>cloud-eureka</module>
+        <module>cloud-config</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -86,6 +87,11 @@
             <dependency>
                 <groupId>com.hope</groupId>
                 <artifactId>cloud-eureka</artifactId>
+                <version>${springboot.modules.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.hope</groupId>
+                <artifactId>cloud-config</artifactId>
                 <version>${springboot.modules.version}</version>
             </dependency>
         </dependencies>
