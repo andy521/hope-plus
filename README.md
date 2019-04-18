@@ -2,7 +2,7 @@
 
 # 简介：
 
-> 基于springboot，springcloud，Spring Cloud Netflix的微服务架构
+> 基于 Spring Boot、Spring Cloud一系列框架构建的微服务项目（技术用的很多，详细列表看技术栈）
 
 # 技术栈
 
