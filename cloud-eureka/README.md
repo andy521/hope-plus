@@ -4,7 +4,7 @@
 
 单节点注册中心，使用dev环境。账号：cloud-eureka 密码：cloud-eureka
 
-集群多节点注册中心，使用prod61,prod62,prod63环境。注：需要去掉maven里面的security依赖，没有密码
+多节点高可用集群注册中心，使用prod61,prod62,prod63环境。注：需要去掉maven里面的security依赖，没有密码
 
 ## 关于：
 
